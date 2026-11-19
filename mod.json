@@ -1,0 +1,16 @@
+{
+  "geode": "5.0.0",
+  "version": "1.0.0",
+  "id": "rayzdev7.easy-jukebox",
+  "name": "Easy Jukebox",
+  "developer": "RayzDev7",
+  "description": "Biblioteca comunitaria de músicas personalizadas para Geometry Dash.",
+  "tags": [
+    "music",
+    "online",
+    "utility"
+  ],
+  "dependencies": {
+    "geode": ">=5.0.0"
+  }
+}
